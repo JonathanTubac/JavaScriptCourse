@@ -17,7 +17,7 @@ const printName = name => {
     console.log(name)
 }
 
-//We can write the function in a single line
+//We can write the function in a single line if we dont have a long logic code
 
 const add = (a, b) => a + b
 
